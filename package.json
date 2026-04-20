@@ -7,12 +7,12 @@
         "test": "jest"
     },
     "devDependencies": {
-        "@ton/blueprint": "^0.44.1",
+        "@ton/blueprint": "^0.44.2",
         "@ton/core": "^0.63.1",
         "@ton/crypto": "^3.2.0",
         "@ton/sandbox": "^0.41.0",
         "@ton/test-utils": "^0.12.0",
-        "@ton/ton": "^16.2.3",
+        "@ton/ton": "^16.2.4",
         "@types/jest": "^30.0.0",
         "@types/node": "^25.3.3",
         "jest": "^30.3.0",
